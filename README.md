@@ -1,8 +1,8 @@
 ## Oi eu sou o Doriel Martins.
 <div align="center">
   <a href="https://github.com/d-marttinss">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d-marttinss&show_icons=true&theme=slateorangea&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-marttinss&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=d-marttinss&show_icons=true&theme=slateorangea&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-marttinss&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Dori-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

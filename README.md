@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Dori-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/d-marttinss/Imagens/blob/master/download20211101115333.png">
+  <img align="right" alt="Dori-pic" height="150" style="border-radius:50px;" src="https://github.com/d-marttinss/Imagens/blob/master/download20211101115333.png">
 </div>
  
 ##  

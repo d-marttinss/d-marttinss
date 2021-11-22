@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @oriel_Martins
-- 👀 I’m interested in a job opening and super willing to develop projects.
-- 🌱 Currently i want to learn python, java e banco de dados
-- ✨ I have a notion in bootstrap, css, html e c++.
-- 💞️ I’m looking to collaborate on new projects e gain experience.
-- 📫 How to reach me, send me e-mail on doriel.martins.99@gmail.com or +55(61)98480-0816.
-
-<!---
-d-marttinss/d-marttinss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Oi eu sou o Doriel Martins.
+<div align="center">
+  <a href="https://github.com/d-marttinss">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d-marttinss&show_icons=true&theme=slateorangea&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-marttinss&layout=compact&langs_count=7&theme=slateorange"/>
+</div>
+<div style="display: inline_block"><br>
+   <img align="center" alt="Dori-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/d-marttinss/Imagens/blob/master/download20211101115333.png">
+</div>
+ 
+##  
+  
+<div>
+ <a href = "mailto:doriel.martins.99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.https://www.linkedin.com/in/doriel-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+</div>
+  

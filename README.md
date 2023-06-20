@@ -1,7 +1,7 @@
 ## Oi eu sou o Doriel Martins
 
 #### 👨‍🎓 Estudante de Sistemas de Informação na UDF, gradudado em ADS.
-##### 📖 Aprendendo: Python, SQL, Análise de Dados, Engenharia de Dados.
+#### 📖 Aprendendo: Python, SQL, Análise de Dados, Engenharia de Dados, SAS, DataStage e Power BI.
 
 <p>Atualmente busco aprendizado na área de dados, mas gosto de conhecer o mais extenso campo de Tecnologia, desde Infra em servidor maquina até em nuvem, segurnaça, e programção, seja pra dispositivos móveis, ou para desktop e WEB.<br>
 Sou bastante empenhado, se me der uma missão/atividade que eu não saiba, vou buscar aprender como faze-la, se depois de várias tentativas e falhas busco pessoas dentro da equipe no qual eu estou inserida para tentar encerrar o desafio proposto.<br><br>
